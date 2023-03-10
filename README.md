@@ -6,7 +6,7 @@
 - <a href="https://stymrj.github.io/projects/sgpa/"> SGPA Calculator</a>
 - <a href="https://stymrj.github.io/projects/sgpa/"> SGPA Calculator</a>
 - <a href="https://stymrj.github.io/projects/sgpa/"> SGPA Calculator</a>
-- <a href="https://stymrj.github.io/projects/sgpa/"> SGPA Calculator</a>
+- <a href="https://stymrj.github.io/satyam/"> chatbot</a>
 
 
 Thanks & Regards,
