@@ -3,9 +3,9 @@
 
 ### My some of projects are
 - <a href="https://stymrj.github.io/projects/sgpa/"> SGPA Calculator</a> click here to check 
-- <a href="https://stymrj.github.io/projects/sgpa/"> SGPA Calculator</a>
-- <a href="https://stymrj.github.io/projects/sgpa/"> SGPA Calculator</a>
-- <a href="https://stymrj.github.io/projects/sgpa/"> SGPA Calculator</a>
+- <a href="https://stymrj.github.io/projects/chatbot/"> Movie Ticket Booking Chatbot</a>
+- <a href="https://stymrj.github.io/projects/sgpa/"> SGPA Calculator</a> click here to check 
+- <a href="https://stymrj.github.io/projects/chatbot/"> Movie Ticket Booking Chatbot</a> Updated Link
 - <a href="https://stymrj.github.io/satyam/"> chatbot</a>
 
 
